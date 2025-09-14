@@ -6,7 +6,7 @@ It ensures each password contains **at least one letter, one digit, and one symb
 ---
 
 ## ✨ Features
-- User chooses the password length (must be at least 3).
+- User chooses the password length (must be at least 3 characters).
 - Includes **letters, digits, and symbols**.
 - Guarantees at least one of each character type.
 - Password characters are shuffled for randomness.
