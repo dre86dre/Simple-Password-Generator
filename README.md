@@ -21,3 +21,13 @@ It ensures each password contains **at least one letter, one digit, and one symb
 
    ```bash
    simple_password_generator.py
+
+3. Enter the desired password length:
+
+   ```perl
+   Enter password length: 12
+
+4. Your generated password will be displayed:
+
+   ```perl
+   Your password is: a7@Qm2Zp$LxY
