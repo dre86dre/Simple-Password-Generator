@@ -46,3 +46,9 @@ It ensures each password contains **at least one letter, one digit, and one symb
    ```bash
    Enter password length: 10
    Your password is: F3@dZ9!rQx
+   ```
+---
+
+## 📜 License
+
+This project is open-source and free to use.
