@@ -31,3 +31,10 @@ It ensures each password contains **at least one letter, one digit, and one symb
 
    ```perl
    Your password is: a7@Qm2Zp$LxY
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- Uses only built-in modules (random, string).
