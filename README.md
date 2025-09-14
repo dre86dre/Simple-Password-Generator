@@ -43,6 +43,6 @@ It ensures each password contains **at least one letter, one digit, and one symb
 
 ## 📖 Example Output
 
-   ```python
+   ```pgsql
    Enter password length: 10
    Your password is: F3@dZ9!rQx
